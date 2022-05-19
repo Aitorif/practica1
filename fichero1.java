@@ -1,1 +1,1 @@
-Este es un archivo java
+Este es un archivo java de práctica
